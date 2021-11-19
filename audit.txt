@@ -1,0 +1,1 @@
+2021-11-19T00:35:52.852773200 : purchaseSelection : com.sg.vendingmachine.service.VendingMachineInsufficientFundsException: ERROR: Insufficient Funds. (0) com.sg.vendingmachine.dto.Selection@909217e | The balance was: $0.5
